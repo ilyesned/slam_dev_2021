@@ -1,4 +1,4 @@
 # Projet portfolio
 ## Comment appliquer les bonnes pratiques ?
 
-### Pour le code HTLMh
+### Pour le code HTLM
